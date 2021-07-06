@@ -7,7 +7,7 @@ sample provide
 ## Deployment
 sample web
 ## Hot To Contribute
-
+Fork this respitory
 ### Copyright
 
 2014 Git.Training
