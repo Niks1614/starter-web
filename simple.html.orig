@@ -2,13 +2,14 @@
 
 <!-- 
 	Copyright notice 
+	Adding changes
 	-->
 <head>
 <<<<<<< HEAD
-	<title>A very Respectful website</title>
+	<title>Just trouble</title>
 =======
-	<title>A great Website</title>
->>>>>>> realwork
+	<title>Big trouble</title>
+>>>>>>> b09ab0e (just adding trouble)
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<style>
 		body {
@@ -20,17 +21,17 @@
 </head>
 <body>
 	<main class="container">
-	<!-- Content Goes Here -->
+	<!-- junk filler content -->
 		<p>
 <<<<<<< HEAD
-			Hakdog
+			Trouble only
 =======
-			Good stuff
->>>>>>> realwork
+			Just trouble
+>>>>>>> b09ab0e (just adding trouble)
 		</p>
 	</main>
 	<footer class="container">
-		<p>&copy; Nikie 2021</p>
+		<p>&copy; wehehehe 2021</p>
 	</footer>
 </body>
 </html>
