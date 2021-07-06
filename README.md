@@ -7,3 +7,7 @@ sample provide
 ## Deployment
 sample web
 ## Hot To Contribute
+
+### Copyright
+
+2014 Git.Training
